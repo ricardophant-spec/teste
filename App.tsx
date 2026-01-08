@@ -63,7 +63,7 @@ const Hero = () => (
       <div className="max-w-4xl">
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-extrabold mb-6 leading-none tracking-tight">
           Você tem direito a uma <span className="text-red-600">defesa justa.</span> <br />
-          Eu estou aqui para garanti-la.
+          Eu estou aqui para garanti-la fale comigo!
         </h1>
         <p className="text-xl md:text-2xl text-gray-400 mb-10 max-w-2xl font-light">
           Atuação exclusiva em processos criminais há mais de 8 anos, com plantão 24h e acompanhamento imediato em delegacias e flagrantes.
@@ -208,7 +208,7 @@ const Differentials = () => (
 const CallToAction = () => (
   <section className="py-24 bg-black overflow-hidden relative">
      <div className="absolute inset-0 opacity-30 pointer-events-none">
-        <img src="https://images.unsplash.com/photo-1453948576620-15d99c1d6836?q=80&w=2070&auto=format&fit=crop" className="w-full h-full object-cover grayscale" />
+        <img src="https://images.unsplash.com/photo-1453948576620-15d99c1d6836?q=80&w=2070&auto=format&fit=crop" className="w-full h-full object-cover grayscale" alt="Law background" />
      </div>
      <div className="absolute inset-0 bg-black/80" />
 
